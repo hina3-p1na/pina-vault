@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "20a1fde9716e65a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4420e0141bc48bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ede5d540d0ea3b0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "619c2b0f457e41b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6316d3b34c622f05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "938c2eac0068fbf7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "09b1054ad119979d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "b5f99387c3482079",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "46c1a9a6b58b0384",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4e8d788c0b41c4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a48f49270f675bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "57a5fd2106a6ca55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ようこそ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "ようこそからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "93d9856c8fbd62b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "fc43e3c3a50ef079",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "ca4daf01cc9a2e63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ようこそ.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "ようこそのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false
+    }
+  },
+  "active": "4ede5d540d0ea3b0",
+  "lastOpenFiles": [
+    "_System/Vault運用設計_v2.md.tmp.22764.a9ed5432797e",
+    "_System/Vault運用設計_v2.md.tmp.22764.f4d6893629a5",
+    "_System/_state/slack_inbox_last_run.md",
+    "_System/_state/journal_pending.md",
+    "04_Journal/Daily/2026-07-16.md",
+    "_System/Vault運用設計_v2.md.tmp.22764.1ba60194edad",
+    "_System/Vault運用設計_v2.md.tmp.22764.18099c607323",
+    "_System/Vault運用設計_v2.md.tmp.22764.e1bbd3054be8",
+    "08_Business/PartnerProp｜営業オペレーション改善.md",
+    "_System/HarnessOps構想_全体設計図_v2.md.tmp.22764.1e46bb5545b7",
+    "00_Personal/Profile/人物特性・ストレス反応パターン.md.tmp.22764.4ad2149bf5b7",
+    "05_Seeds/stock_reviews/弱みの言語化が転職戦略の精度を一段上げた.md.tmp.22764.0b385030a1df",
+    "PartnerProp運営.md",
+    "05_Seeds/stock_reviews/検証設計と属人化脱却の反復パターン.md.tmp.22764.8d336ef82b43",
+    "07_Compass/組織における実力主義観・評価への違和感.md.tmp.22764.8bfaede39ed8",
+    "07_Compass/パートナービジネス戦略.md.tmp.22764.79f18fe0003c",
+    "00_ref/chat_stock/SalesMetrica構想（自社プロダクト開発）.md",
+    "レビュー候補一覧.md",
+    "02_Decisions/キャリア志向性と現在地.md",
+    "00_ref/参考文献_抽象化サマリー.md",
+    "00_Personal/Profile/人物特性・ストレス反応パターン.md",
+    "08_Business/組織・評価制度設計.md",
+    "00_ref/chat_stock/組織における実力主義観・評価への違和感.md",
+    "_System/_state/README.md",
+    "Claude_log.md",
+    "01_Inbox/上半期の消耗を経て下半期はゴールと時間を意図的に設計する.md",
+    "INDEX.md",
+    "ChatGPT_log.md",
+    "chatgpt_logs/2026-07-13_キャリア戦略の提案.md",
+    "08_Business/半期OKR_新規事業推進室.md",
+    "06_Brainstem.md",
+    "07_Compass/パートナービジネス戦略.md",
+    "chatgpt_logs/2026-07-14_Notion AI議事録自動リンク.md",
+    "BIT-A｜立て直しの現在地.md",
+    "00_Personal/Career/キャリア志向性と現在地.md",
+    "chat_stock/パートナービジネス戦略.md",
+    "無題のファイル.canvas"
+  ]
+}
