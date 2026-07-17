@@ -41,6 +41,7 @@ Expansion（価値実感 → 追加投資）
 - [[RevOps_BizOpsの設計思想]]
 - [[ブランドは信頼の建築物である]]
 - [[顧客信頼フライホイール]]
+- [[パートナー戦略とチャネル確立]] — 案件タンクの水位不足を最大Constraintと定め、「案件保有・消化不足型」パートナーを最優先ターゲットに設定。「相手のConstraintを起点にWin-Win設計」という発想転換がGTMチャネル設計の実践例として表出
 
 
 ## 📚 関連ChatGPT参照 — GTM/Sales（GTM:3件 / Sales:120件中上位20件）
@@ -65,14 +66,3 @@ Expansion（価値実感 → 追加投資）
 - Senior Salesforce Consultant
 - Experienced Sales/Business Developer - Financial ...
 - Salesforce - Senior Manager/Manager
-
-## 📚 関連Claude参照（Coworkセッション）— 2026-07-09更新
-
-- シェルパアンドカンパニー社の事業戦略レポート作成
-- Tier3・Tier4架電戦略の精度向上
-- お問い合わせフォームでのアポイント打診文面作成
-- 商談日時案内メールの作成
-
-## 📚 関連ChatGPT参照
-
-- [パートナー戦略とチャネル確立] — 案件タンクの水位不足を最大Constraintと定め、「案件保有・消化不足型」パートナーを最優先ターゲットに設定。「相手のConstraintを起点にWin-Win設計」という発想転換がGTMチャネル設計の実践例として表出。

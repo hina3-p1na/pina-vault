@@ -56,19 +56,5 @@ Trust Balance Account
 - [[ブランドは信頼の建築物である]]
 - [[顧客信頼フライホイール]]
 - [[RevOps_BizOpsの設計思想]]
-
-
-## 📚 関連ChatGPT参照 — Revenue/KPI（6件）
-
-- 4ステップでSaaS事業計画を作成：ARRとKPIの完全設計ガイド｜projection-ai:blog
-- ”revenue Operations”の求人
-- Built a pipeline where my meetings turn into organized Notion pages while I sleep. Here's the whole setup.
-- Revenue Manager Salary in Tokyo, Japan (2026)
-- Robert Dahdah - EVP, Chief Revenue Officer at PTC
-- Record 2025 revenue as BlackSky (NYSE - BKSY
-
-## 📚 関連Claude参照（Coworkセッション）— 2026-07-09更新
-
-- Tier3・Tier4架電戦略の精度向上
-- 支援体制の複線化による品質維持強化
-- 栃木銀行のScope 3算定自動化と脱炭素支援
+- [[Tier3・Tier4架電戦略の精度向上]]
+- [[支援体制の複線化による品質維持強化]]
