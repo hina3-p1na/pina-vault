@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f4420e0141bc48bd",
+        "id": "c0868ee4111417c9",
         "type": "tabs",
         "children": [
           {
-            "id": "4ede5d540d0ea3b0",
+            "id": "3b27e95397b265fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02_Journal/Diary｜260728_幸福時間とサボり特性.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "Diary｜260728_幸福時間とサボり特性"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "ファイルエクスプローラ"
@@ -90,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_Journal/Diary｜260728_幸福時間とサボり特性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "Diary｜260728_幸福時間とサボり特性へのバックリンク"
             }
           },
           {
@@ -108,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ようこそ.md",
+                "file": "05_Business/新規事業推進室｜中長期ビジョンと半期OKR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "ようこそからのアウトゴーイングリンク"
+              "title": "新規事業推進室｜中長期ビジョンと半期OKRからのアウトゴーイングリンク"
             }
           },
           {
@@ -159,12 +166,23 @@
               "icon": "lucide-list",
               "title": "ようこそのアウトライン"
             }
+          },
+          {
+            "id": "31a41c9befa2d7f5",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 376.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,47 +192,49 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:新規ベースを作成": false
+      "bases:新規ベースを作成": false,
+      "realclaudian:Open Claudian": false,
+      "random-note:ランダムノートを開く": false
     }
   },
-  "active": "4ede5d540d0ea3b0",
+  "active": "3b27e95397b265fa",
   "lastOpenFiles": [
-    "CLAUDE.md",
-    "07_Knowledge",
-    "05_Seeds/成果シナリオと業務設計.md",
-    "03_Sprout",
-    "01_Seeds",
-    "05_Seeds/新規事業立ち上げの学び（外部知見）.md",
-    "08_Business/フリーランス事業壁打ち：案件タンク不足を起点に「事業拡張ポンプ」ビジョン言語化.md",
-    "08_Business/フリーランス管理・供給の仕組み化.md",
-    "08_Business/フリーランス管理とパフォーマンス評価に関する議論.md",
-    "05_Seeds/stock_reviews/事業拡張ポンプの言語化と上期総括メッセージの確定.md",
-    "05_Seeds/stock_reviews/弱みの言語化が転職戦略の精度を一段上げた.md",
-    "05_Seeds/stock_reviews/属人化脱却と事業拡張ポンプ.md",
-    "02_Resources/Clipping/リボンモデル｜リクルート事業戦略モデル.md",
-    "01_Inbox/新規事業推進室における、事業推進サイドの半期ゴールと方針.md",
-    "01_Inbox/上半期の消耗を経て下半期はゴールと時間を意図的に設計する.md",
-    "01_Inbox/フリーランス案件の取り方.md",
-    "00_Personal/Profile/自己認識マップ.md",
-    "00_Personal/Profile/人物特性・ストレス反応パターン.md",
-    "00_Personal/Career/創造的なアイディアの共有.md",
-    "00_Personal/Career/個人向けAIコンサルタント体制の構築.md",
-    "00_Personal/Career/フォースタートアップス面談.md",
-    "00_Personal/Career/キャリア志向性と現在地.md",
-    "00_Personal/Career/Ops職の階層構造と守備範囲の図式化.md",
-    "00_Personal/Career/My VISION.md",
-    "自己理解×下期ゴール設計_壁打ちログ_2026-07.md",
-    "_System/ファイル切り分けルール_早見表.md",
-    "_System/_state/README.md.tmp.10448.4d3400a92693",
-    "05_Seeds/Notion AI議事録自動リンク.md",
-    "05_Seeds/量のInsideSalesが抱える課題.md",
-    "05_Seeds/ブランディングと購入権の関係性.md",
-    "05_Seeds/レビュー候補一覧.md.tmp.10448.d97f626f8a7f",
-    "_System/Vault運用設計_v2.md.tmp.10448.680ca7ba73a6",
-    "08_Business/フリーランス管理・供給の仕組み化.md.tmp.19640.e574d05ca456",
-    "08_Business/メンバー育成・1on1.md.tmp.19640.788fe8754e74",
-    "08_Business/組織・評価制度設計.md.tmp.19640.ad08595b530f",
-    "無題のファイル.base",
+    "_System/scripts/backup_cycle.sh",
+    "CLAUDE.md.tmp.27952.880b2ee93627",
+    "CLAUDE.md.tmp.27952.c7bb97ce48ee",
+    "_System/scripts/auto_link.sh.tmp.27952.69a351061c3e",
+    "CLAUDE.md.tmp.27952.ccb4e1f4717a",
+    "CLAUDE.md.tmp.27952.8415991157d5",
+    "CLAUDE.md.tmp.27952.d6967f9824a8",
+    "04_Outputs",
+    "03_WorkSite/新規事業推進室｜中長期ビジョンと半期OKR.md",
+    "03_WorkSite/新規事業推進室における、事業推進サイドの半期ゴールと方針.md",
+    "03_WorkSite/【副業】コンテンツ生成ルール.md",
+    "03_WorkSite",
+    "_System/scripts/journal_cycle.sh.tmp.27952.1c655e751011",
+    "_System/_staging/aiChat_sessions_pending.md",
+    "02_Journal/Journal.base",
+    "02_Journal/Diary｜260728_幸福時間とサボり特性.md",
+    "02_Journal/Daily/2026-07-22.md",
+    "02_Journal/Daily/2026-07-23.md",
+    "02_Journal/Daily/2026-07-30.md",
+    "05_Business/新規事業推進室｜中長期ビジョンと半期OKR.md",
+    "00_Personal/Profile・思想・価値観/私の意思決定基準・行動判断軸.md",
+    "02_Journal/Journal一覧.md",
+    "05_Business/【副業】コンテンツ生成ルール.md",
+    "01_Seeds/GTM=価値の届け方の設計.md",
+    "00_Personal/Career/30歳の抱負｜2026-07-01.md",
+    "00_Personal/Career/2026年下期GoalPlan.md",
+    "02_Journal/Daily/マネジメントタイプの多様性と向き不向き判断の考察｜2026-07-21.md",
+    "01_Seeds/量のInsideSalesが抱える課題｜IS企画・Ops.md",
+    "01_Seeds/上期の消耗・意図的なゴールと時間設計の下期.md",
+    "01_Seeds/事業拡張ポンプ.md",
+    "01_Seeds/業務設計と成果シナリオの立ち位置.md",
+    "01_Seeds/リボンズモデル.md",
+    "01_Seeds/2025-09_ICC京都メモ.md",
+    "05_Business/新規事業推進室における、事業推進サイドの半期ゴールと方針.md",
+    "半期OKR.md",
+    "00_Personal/Career/自己理解×下期ゴール設計.md",
     "無題のファイル.canvas"
   ]
 }
