@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # 毎晩23:00に1回実行。AI判定が不要な機械的処理のみのため claude -p は呼ばない（トークン消費ゼロ）。
 #   1. Pina-Vault（Public repo）：構造・スクリプト・.obsidian設定のみをgit push
-#      実データ（00_Personal〜04_Outputs）は.gitignoreでPublicから除外済み
+#      実データ（00_Personal〜05_Outputs）は.gitignoreでPublicから除外済み
 #   2. 実データ＋Claude Codeセッションログ（~/.claude/projects配下、全プロジェクト）を
 #      SessionLogBackup（Private repo）へミラーしてgit push
 #
@@ -18,7 +18,7 @@ AUTOMATION_DIR="/c/Users/朝比奈聖海/!ai-pinas-capital/Pina-Vault-Automation
 LOG_FILE="$AUTOMATION_DIR/_state/backup_cycle_log.md"
 SESSION_LOG_SRC="/c/Users/朝比奈聖海/.claude/projects"
 PRIVATE_BACKUP="/c/Users/朝比奈聖海/!ai-pinas-capital/SessionLogBackup"
-VAULT_CONTENT_DIRS=("00_Personal" "01_Seeds" "02_Journal" "03_WorkSite" "04_Outputs")
+VAULT_CONTENT_DIRS=("00_Personal" "01_Notes" "02_Journal" "03_Sources" "04_WorkSite" "05_Outputs")
 
 mkdir -p "$AUTOMATION_DIR/_state"
 

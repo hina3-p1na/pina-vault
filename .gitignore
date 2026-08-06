@@ -1,10 +1,11 @@
 # このリポジトリはPublic。実データ（個人情報・業務記録）は含めない。
 # バックアップは _System/scripts/backup_cycle.sh が別のPrivateリポジトリへ行う。
 00_Personal/
-01_Seeds/
+01_Notes/
 02_Journal/
-03_WorkSite/
-04_Outputs/
+03_Sources/
+04_WorkSite/
+05_Outputs/
 
 # ローカル専用の設定・状態（バックアップ対象外）
 .claudian/
