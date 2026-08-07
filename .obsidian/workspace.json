@@ -11,10 +11,14 @@
             "id": "f893c0af544b59db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04_WorkSite/新規事業推進室｜中長期ビジョンと半期OKR.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "新規事業推進室｜中長期ビジョンと半期OKR"
             }
           }
         ]
@@ -76,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "46c1a9a6b58b0384",
@@ -196,6 +199,13 @@
   },
   "active": "f893c0af544b59db",
   "lastOpenFiles": [
+    "AGENTS.md",
+    "04_WorkSite/新規事業推進室｜中長期ビジョンと半期OKR.md.tmp.21908.998a72f75255",
+    "04_WorkSite/新規事業推進室における、事業推進サイドの半期ゴールと方針.md",
+    "01_Notes/業務設計と成果シナリオの立ち位置.md",
+    "01_Notes/事業拡張ポンプ.md",
+    "01_Notes/GTM=価値の届け方の設計.md",
+    "無題のファイル.canvas",
     "03_Sources/リボンズモデル.md",
     "02_Journal/Journal.base",
     "_System/scripts/auto_link.sh.tmp.26924.43e5911baab4",
@@ -206,18 +216,13 @@
     "CLAUDE.md.tmp.26924.8546863ea54e",
     "CLAUDE.md.tmp.26924.0b530dc6d80e",
     "CLAUDE.md.tmp.26924.9e4c1c5ec334",
-    "05_Outputs",
     "04_WorkSite/新規事業推進室｜中長期ビジョンと半期OKR.md",
-    "04_WorkSite/新規事業推進室における、事業推進サイドの半期ゴールと方針.md",
     "04_WorkSite/【副業】コンテンツ生成ルール.md",
     "04_WorkSite_tmp/新規事業推進室｜中長期ビジョンと半期OKR.md",
     "04_WorkSite_tmp/新規事業推進室における、事業推進サイドの半期ゴールと方針.md",
     "04_WorkSite_tmp/【副業】コンテンツ生成ルール.md",
     "01_Notes/量のInsideSalesが抱える課題｜IS企画・Ops.md",
-    "01_Notes/業務設計と成果シナリオの立ち位置.md",
-    "01_Notes/事業拡張ポンプ.md",
     "01_Notes/上期の消耗・意図的なゴールと時間設計の下期.md",
-    "01_Notes/GTM=価値の届け方の設計.md",
     "01_Notes/2025-09_ICC京都メモ.md",
     "02_Journal/週次振り返り｜260803_情報少なめの週.md",
     "02_Journal/Journal一覧.md",
@@ -230,7 +235,6 @@
     "02_Journal/Daily/2026-07-22.md",
     "02_Journal/Daily/2026-07-23.md",
     "02_Journal/Daily/2026-07-30.md",
-    "05_Business/新規事業推進室｜中長期ビジョンと半期OKR.md",
-    "無題のファイル.canvas"
+    "05_Business/新規事業推進室｜中長期ビジョンと半期OKR.md"
   ]
 }
