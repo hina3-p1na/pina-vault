@@ -1,8 +1,8 @@
-# Obsidian Vault 運用ルール（AGENTS.md）
+# Obsidian Vault 運用ルール（原本：AGENTS.md ／ CLAUDE.mdはこのファイルを読み込むだけ）
 
 ## 0. 役割分担
 
-- **Codex＝司令塔**。最終判断とアウトプット生成に専念する
+- **Claude Code・Codex（作業中のAI）＝司令塔**。最終判断とアウトプット生成に専念する
 - **Obsidian＝第二の脳**。生ログは残さず、自分の解釈・気づきが乗ったものだけを残す
 - **Notion＝タスク管理・会議の生ログ置き場**。再現性ある型と判断できたものだけをNotionのSOPへ逆輸入する
 - **NotebookLM＝調査・制作の外部委託先**（詳細は7章）
