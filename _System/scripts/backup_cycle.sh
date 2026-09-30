@@ -5,6 +5,8 @@
 #   2. 実データ＋Claude Codeセッションログ（~/.claude/projects配下、全プロジェクト）を
 #      SessionLogBackup（Private repo）へミラーしてgit push
 #
+#   3. 全体ルールの原本（~/.codex/AGENTS.md）も同じPrivate repoへ退避
+#
 # Private backup側は追記のみ（source側で削除されたファイルもbackup側には残る）。
 # 復元用の安全網という位置づけのため、意図的に削除を追随させていない。
 
@@ -36,7 +38,7 @@ else
 fi
 
 # 2. 実データ + セッションログ（Private repo）
-mkdir -p "$PRIVATE_BACKUP/vault-content" "$PRIVATE_BACKUP/claude-sessions"
+mkdir -p "$PRIVATE_BACKUP/vault-content" "$PRIVATE_BACKUP/claude-sessions" "$PRIVATE_BACKUP/agent-rules"
 
 for d in "${VAULT_CONTENT_DIRS[@]}"; do
   if [ -d "$VAULT_ROOT/$d" ]; then
@@ -46,6 +48,7 @@ for d in "${VAULT_CONTENT_DIRS[@]}"; do
 done
 
 cp -r "$SESSION_LOG_SRC/." "$PRIVATE_BACKUP/claude-sessions/"
+cp "/c/Users/朝比奈聖海/.codex/AGENTS.md" "$PRIVATE_BACKUP/agent-rules/codex_AGENTS.md"
 
 cd "$PRIVATE_BACKUP"
 git add -A
