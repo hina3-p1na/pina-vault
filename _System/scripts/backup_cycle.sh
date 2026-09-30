@@ -7,8 +7,9 @@
 #
 #   3. 全体ルールの原本（~/.codex/AGENTS.md）も同じPrivate repoへ退避
 #
-# Private backup側は追記のみ（source側で削除されたファイルもbackup側には残る）。
-# 復元用の安全網という位置づけのため、意図的に削除を追随させていない。
+# vault-content：削除・移動・リネームも追随する完全ミラー（旧フォルダの残骸を溜めないため）。
+#   消したノートはPrivate repoのgit履歴から復元できるので、安全網は履歴側が担う。
+# claude-sessions：追記のみ（Claude Code側の自動削除後もログを残すのが目的のため）。
 
 set -euo pipefail
 
@@ -38,6 +39,7 @@ else
 fi
 
 # 2. 実データ + セッションログ（Private repo）
+rm -rf "$PRIVATE_BACKUP/vault-content"
 mkdir -p "$PRIVATE_BACKUP/vault-content" "$PRIVATE_BACKUP/claude-sessions" "$PRIVATE_BACKUP/agent-rules"
 
 for d in "${VAULT_CONTENT_DIRS[@]}"; do
