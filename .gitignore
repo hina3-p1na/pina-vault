@@ -3,9 +3,11 @@
 00_Personal/
 01_Notes/
 02_Journal/
+02_Memorandum/
 03_Sources/
 04_WorkSite/
 05_Outputs/
+06_AI知的資産/
 
 # ローカル専用の設定・状態（バックアップ対象外）
 .claudian/

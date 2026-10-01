@@ -21,7 +21,7 @@ AUTOMATION_DIR="/c/Users/朝比奈聖海/!ai-pinas-capital/Pina-Vault-Automation
 LOG_FILE="$AUTOMATION_DIR/_state/backup_cycle_log.md"
 SESSION_LOG_SRC="/c/Users/朝比奈聖海/.claude/projects"
 PRIVATE_BACKUP="/c/Users/朝比奈聖海/!ai-pinas-capital/SessionLogBackup"
-VAULT_CONTENT_DIRS=("00_Personal" "01_Notes" "02_Journal" "03_Sources" "04_WorkSite" "05_Outputs")
+VAULT_CONTENT_DIRS=("00_Personal" "01_Notes" "02_Memorandum" "03_Sources" "04_WorkSite" "05_Outputs" "06_AI知的資産")
 
 mkdir -p "$AUTOMATION_DIR/_state"
 
@@ -63,3 +63,4 @@ else
 fi
 
 echo "=== 完了 ===" | tee -a "$LOG_FILE"
+
