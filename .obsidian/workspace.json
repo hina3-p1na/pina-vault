@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Personal/Profile・思想・価値観/意思決定基準×こだわりのガバナー.md",
+                "file": "_System/_staging/aiChat_sessions_pending.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "意思決定基準×こだわりのガバナー"
+              "title": "aiChat_sessions_pending"
             }
           }
         ],
@@ -192,12 +192,12 @@
               "title": "Claudian"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 376.5,
-    "collapsed": true
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,42 +214,42 @@
   },
   "active": "97d832fd00259490",
   "lastOpenFiles": [
+    "01_Notes/量のInsideSalesが抱える課題｜IS企画・Ops.md",
+    "01_Notes/業務設計と成果シナリオの立ち位置.md",
+    "01_Notes/Python環境セットアップ手順（Windows）.md",
+    "01_Notes/定期タスク・スキル・プロジェクトの使い分け.md",
+    "01_Notes/事業拡張ポンプ.md",
+    "01_Notes/GTM=価値の届け方の設計.md",
+    "AGENTS.md",
+    "00_Personal/Profile・思想・価値観/sedCFm4rF",
+    "00_Personal/Profile・思想・価値観/sedvOp7Iu",
+    "00_Personal/Profile・思想・価値観/sednMMAbl",
+    "00_Personal/Career/seduEKbW7",
+    "00_Personal/Career/sed7w42iM",
+    "CLAUDE.md",
+    "02_Journal/Diary｜260728_幸福時間とサボり特性.md",
+    "_Template/Note.md",
+    "02_Journal/Journal.base",
+    "02_Journal/Daily/マネジメントタイプの多様性と向き不向き判断の考察｜2026-07-21.md",
+    "01_Notes/上期の消耗・意図的なゴールと時間設計の下期.md",
+    "01_Notes/2025-09_ICC京都メモ.md",
+    "02_Journal/Daily/2026-07-22.md",
+    "02_Journal/Daily/2026-07-30.md",
+    "00_Personal/Private/ワーキングホリデーの参加を考えてみる.md",
+    "02_Journal/Diary｜260805_幹部観への違和感.md",
+    "02_Journal/Daily/2026-07-23.md",
+    "無題のファイル.md",
+    "00_Personal/Profile・思想・価値観/意思決定基準×こだわりのガバナー.md",
     "00_Personal/Profile・思想・価値観/好みの性質｜嗜好の構造.md",
     "00_Personal/Profile・思想・価値観/好きな○○ 生データ一覧.md",
     "00_Personal/Profile・思想・価値観/自己分析×診断結果ノート.md",
-    "00_Personal/Profile・思想・価値観/意思決定基準×こだわりのガバナー.md",
     "00_Personal/Profile・思想・価値観/私の意思決定基準・行動判断軸.md",
     "00_Personal/Profile・思想・価値観/自己分析×診断結果ノート.md.tmp.7076.1967165b3ed5",
     "00_Personal/Profile・思想・価値観/私の意思決定基準・行動判断軸.md.tmp.7076.266363fe0613",
-    "無題のファイル.md",
-    "02_Journal/Daily/2026-07-22.md",
-    "_Template/Note.md",
-    "02_Journal/Daily/2026-07-30.md",
     "04_WorkSite/新規事業推進室｜中長期ビジョンと半期OKR.md",
-    "AGENTS.md",
     "04_WorkSite/新規事業推進室｜中長期ビジョンと半期OKR.md.tmp.21908.998a72f75255",
     "04_WorkSite/新規事業推進室における、事業推進サイドの半期ゴールと方針.md",
-    "01_Notes/業務設計と成果シナリオの立ち位置.md",
-    "01_Notes/事業拡張ポンプ.md",
-    "01_Notes/GTM=価値の届け方の設計.md",
     "無題のファイル.canvas",
-    "03_Sources/リボンズモデル.md",
-    "02_Journal/Journal.base",
-    "_System/scripts/auto_link.sh.tmp.26924.43e5911baab4",
-    "CLAUDE.md.tmp.26924.4a7b0002eab0",
-    "CLAUDE.md.tmp.26924.6f6222690c11",
-    "CLAUDE.md.tmp.26924.c9bddff4bac6",
-    "CLAUDE.md.tmp.26924.870c56cdca72",
-    "CLAUDE.md.tmp.26924.8546863ea54e",
-    "04_WorkSite/【副業】コンテンツ生成ルール.md",
-    "04_WorkSite_tmp/新規事業推進室｜中長期ビジョンと半期OKR.md",
-    "04_WorkSite_tmp/新規事業推進室における、事業推進サイドの半期ゴールと方針.md",
-    "04_WorkSite_tmp/【副業】コンテンツ生成ルール.md",
-    "01_Notes/量のInsideSalesが抱える課題｜IS企画・Ops.md",
-    "01_Notes/上期の消耗・意図的なゴールと時間設計の下期.md",
-    "01_Notes/2025-09_ICC京都メモ.md",
-    "02_Journal/週次振り返り｜260803_情報少なめの週.md",
-    "02_Journal/Journal一覧.md",
-    "02_Journal/Diary｜260805_幹部観への違和感.md"
+    "_System/scripts/auto_link.sh.tmp.26924.43e5911baab4"
   ]
 }
