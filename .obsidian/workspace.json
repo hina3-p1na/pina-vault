@@ -11,32 +11,16 @@
             "id": "f893c0af544b59db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "02_Journal/Daily/2026-07-22.md",
-                "mode": "source",
-                "source": false
+                "file": "無題のファイル.base",
+                "viewName": "表"
               },
-              "icon": "lucide-file",
-              "title": "2026-07-22"
-            }
-          },
-          {
-            "id": "97d832fd00259490",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_System/_staging/aiChat_sessions_pending.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "aiChat_sessions_pending"
+              "icon": "lucide-table",
+              "title": "無題のファイル"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ようこそ.md",
+                "file": "無題のファイル.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ようこそのアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -212,44 +196,43 @@
       "random-note:ランダムノートを開く": false
     }
   },
-  "active": "97d832fd00259490",
+  "active": "f893c0af544b59db",
   "lastOpenFiles": [
-    "01_Notes/量のInsideSalesが抱える課題｜IS企画・Ops.md",
-    "01_Notes/業務設計と成果シナリオの立ち位置.md",
-    "01_Notes/Python環境セットアップ手順（Windows）.md",
-    "01_Notes/定期タスク・スキル・プロジェクトの使い分け.md",
-    "01_Notes/事業拡張ポンプ.md",
-    "01_Notes/GTM=価値の届け方の設計.md",
-    "AGENTS.md",
-    "00_Personal/Profile・思想・価値観/sedCFm4rF",
-    "00_Personal/Profile・思想・価値観/sedvOp7Iu",
-    "00_Personal/Profile・思想・価値観/sednMMAbl",
-    "00_Personal/Career/seduEKbW7",
-    "00_Personal/Career/sed7w42iM",
-    "CLAUDE.md",
-    "02_Journal/Diary｜260728_幸福時間とサボり特性.md",
-    "_Template/Note.md",
-    "02_Journal/Journal.base",
-    "02_Journal/Daily/マネジメントタイプの多様性と向き不向き判断の考察｜2026-07-21.md",
-    "01_Notes/上期の消耗・意図的なゴールと時間設計の下期.md",
-    "01_Notes/2025-09_ICC京都メモ.md",
-    "02_Journal/Daily/2026-07-22.md",
-    "02_Journal/Daily/2026-07-30.md",
-    "00_Personal/Private/ワーキングホリデーの参加を考えてみる.md",
-    "02_Journal/Diary｜260805_幹部観への違和感.md",
-    "02_Journal/Daily/2026-07-23.md",
+    "06_AI知的資産/Settings/Claudian.md",
+    "無題のファイル.base",
+    "無題のファイル 1.md",
     "無題のファイル.md",
-    "00_Personal/Profile・思想・価値観/意思決定基準×こだわりのガバナー.md",
-    "00_Personal/Profile・思想・価値観/好みの性質｜嗜好の構造.md",
-    "00_Personal/Profile・思想・価値観/好きな○○ 生データ一覧.md",
-    "00_Personal/Profile・思想・価値観/自己分析×診断結果ノート.md",
-    "00_Personal/Profile・思想・価値観/私の意思決定基準・行動判断軸.md",
-    "00_Personal/Profile・思想・価値観/自己分析×診断結果ノート.md.tmp.7076.1967165b3ed5",
-    "00_Personal/Profile・思想・価値観/私の意思決定基準・行動判断軸.md.tmp.7076.266363fe0613",
-    "04_WorkSite/新規事業推進室｜中長期ビジョンと半期OKR.md",
-    "04_WorkSite/新規事業推進室｜中長期ビジョンと半期OKR.md.tmp.21908.998a72f75255",
-    "04_WorkSite/新規事業推進室における、事業推進サイドの半期ゴールと方針.md",
-    "無題のファイル.canvas",
-    "_System/scripts/auto_link.sh.tmp.26924.43e5911baab4"
+    "06_AI知的資産/Settings/ChatGPT.md",
+    "02_Memorandum/_Legacy Daily/Journal.base",
+    "CLAUDE.md",
+    "AGENTS.md",
+    "02_Memorandum/Memorandum.base",
+    "00_Personal/Self Development.md",
+    "_Template/Memorandum.md",
+    "_System/_staging/aiChat_sessions_pending.md",
+    "_Template/Source.md",
+    "_Template/WorkSite.md",
+    "_Template/AI知的資産.md",
+    "_Template/_Legacy/Note（旧Excalidraw）.md",
+    "_Template/_Legacy",
+    "01_Notes/Business・Ops／事業設計.md",
+    "06_AI知的資産/Settings/Codex.md",
+    "06_AI知的資産/Rules/自動リンクルール.md",
+    "06_AI知的資産/Rules/ノート生成ルール.md",
+    "06_AI知的資産/Rules/ChatGPT・Codex・Claudian連携.md",
+    "06_AI知的資産/Settings",
+    "06_AI知的資産/Rules",
+    "06_AI知的資産/AI知的資産.md",
+    "06_AI知的資産/AI活用思想.md",
+    "06_AI知的資産",
+    "02_Memorandum/_Legacy Daily/マネジメントタイプの多様性と向き不向き判断の考察｜2026-07-21.md",
+    "02_Memorandum/_Legacy Daily/Journal一覧.md",
+    "02_Memorandum/_Legacy Daily/2026-07-30.md",
+    "02_Memorandum/_Legacy Daily/2026-07-23.md",
+    "02_Memorandum/_Legacy Daily/2026-07-22.md",
+    "02_Memorandum/_Legacy Daily",
+    "02_Memorandum/Journal.base",
+    "02_Memorandum",
+    "無題のファイル.canvas"
   ]
 }
