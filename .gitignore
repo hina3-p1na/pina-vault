@@ -13,3 +13,6 @@
 .claudian/
 .vscode/
 _System/_staging/
+
+# AIが生成した業務メモ（公開しない）
+Claude outputs/

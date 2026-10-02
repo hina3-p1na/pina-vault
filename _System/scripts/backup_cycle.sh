@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # 毎晩23:00に1回実行。AI判定が不要な機械的処理のみのため claude -p は呼ばない（トークン消費ゼロ）。
 #   1. Pina-Vault（Public repo）：構造・スクリプト・.obsidian設定のみをgit push
-#      実データ（00_Personal〜05_Outputs）は.gitignoreでPublicから除外済み
+#      実データ（00_Personal〜06_AI知的資産）は.gitignoreでPublicから除外済み
 #   2. 実データ＋Claude Codeセッションログ（~/.claude/projects配下、全プロジェクト）を
 #      SessionLogBackup（Private repo）へミラーしてgit push
 #
@@ -23,6 +23,20 @@ SESSION_LOG_SRC="/c/Users/朝比奈聖海/.claude/projects"
 PRIVATE_BACKUP="/c/Users/朝比奈聖海/!ai-pinas-capital/SessionLogBackup"
 VAULT_CONTENT_DIRS=("00_Personal" "01_Notes" "02_Memorandum" "03_Sources" "04_WorkSite" "05_Outputs" "06_AI知的資産")
 
+if [ "${1:-}" = "--dry-run" ]; then
+  for d in "${VAULT_CONTENT_DIRS[@]}"; do
+    if [ ! -d "$VAULT_ROOT/$d" ]; then echo "フォルダなし: $d"; exit 1; fi
+    if ! git -c safe.directory="$VAULT_ROOT" -C "$VAULT_ROOT" check-ignore -q "$d/"; then
+      echo "公開除外設定なし: $d"; exit 1
+    fi
+    printf 'バックアップ対象・公開除外OK: %s\n' "$d"
+  done
+  [ -d "$PRIVATE_BACKUP/.git" ] || { echo "非公開バックアップのGitフォルダなし"; exit 1; }
+  [ -d "$SESSION_LOG_SRC" ] || { echo "セッションログフォルダなし"; exit 1; }
+  [ -f "/c/Users/朝比奈聖海/.codex/AGENTS.md" ] || { echo "全体ルール原本なし"; exit 1; }
+  echo "確認のみ完了（コピー・削除・コミット・外部送信なし）"
+  exit 0
+fi
 mkdir -p "$AUTOMATION_DIR/_state"
 
 echo "=== backup_cycle.sh 実行: $(date +%Y-%m-%dT%H:%M:%S) ===" | tee -a "$LOG_FILE"

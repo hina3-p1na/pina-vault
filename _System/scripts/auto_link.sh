@@ -12,7 +12,7 @@ STATE_FILE="$AUTOMATION_DIR/_state/auto_link_last_run.md"
 LOG_FILE="$AUTOMATION_DIR/_state/auto_link_log.md"
 TARGET_DIRS=("00_Personal" "01_Notes" "02_Memorandum" "03_Sources" "04_WorkSite" "05_Outputs" "06_AI知的資産")
 
-mkdir -p "$AUTOMATION_DIR/_state"
+if [ "${1:-}" != "--dry-run" ]; then mkdir -p "$AUTOMATION_DIR/_state"; fi
 if [ -f "$STATE_FILE" ]; then
   LAST_RUN=$(grep -oE '[0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}' "$STATE_FILE" | head -1)
 else
@@ -34,6 +34,13 @@ for d in "${TARGET_DIRS[@]}"; do
 done
 rm -f "$REF_FILE"
 
+if [ "${1:-}" = "--dry-run" ]; then
+  printf '対象ノート件数: %s\n' "${#TARGETS[@]}"
+  if [ "${#TARGETS[@]}" -gt 0 ]; then printf '%s\n' "${TARGETS[@]}"; fi
+  if [ -x "$CLAUDE_BIN" ]; then echo "Claude CLI: 存在確認OK"; else echo "Claude CLI: 実行ファイル未確認"; fi
+  echo "確認のみ完了（AI呼び出し・ノート編集・状態更新なし）"
+  exit 0
+fi
 echo "=== auto_link.sh 実行: $(date -u +%Y-%m-%dT%H:%M:%S) ===" | tee -a "$LOG_FILE"
 echo "対象ノート件数: ${#TARGETS[@]}" | tee -a "$LOG_FILE"
 if [ "${#TARGETS[@]}" -gt 0 ]; then
