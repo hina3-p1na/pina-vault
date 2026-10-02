@@ -16,3 +16,6 @@ _System/_staging/
 
 # AIが生成した業務メモ（公開しない）
 Claude outputs/
+
+# 個人ノートを含むローカル退避ファイル（公開しない）
+_System/backups/
