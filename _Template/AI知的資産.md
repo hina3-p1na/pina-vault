@@ -1,7 +1,7 @@
 ---
 created: {{date:YYYY-MM-DD}}
 hub:
-  - "[[AI知的資産]]"
+  - "[[06_AI知的資産/Rules/AI知的資産]]"
 related:
 aliases:
 ---
