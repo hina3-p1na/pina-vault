@@ -11,16 +11,32 @@
             "id": "f893c0af544b59db",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "無題のファイル.base",
-                "viewName": "表"
+                "file": "06_AI知的資産/【ChatGPT】CodexとWorkの出し分け.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "無題のファイル"
+              "icon": "lucide-file",
+              "title": "【ChatGPT】CodexとWorkの出し分け"
+            }
+          },
+          {
+            "id": "6021de66261d5563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Memorandum/違和感や気づきが生まれたときに記録する.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "違和感や気づきが生まれたときに記録する"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,43 +212,48 @@
       "random-note:ランダムノートを開く": false
     }
   },
-  "active": "f893c0af544b59db",
+  "active": "6021de66261d5563",
   "lastOpenFiles": [
-    "06_AI知的資産/Settings/Claudian.md",
-    "無題のファイル.base",
-    "無題のファイル 1.md",
-    "無題のファイル.md",
-    "06_AI知的資産/Settings/ChatGPT.md",
-    "02_Memorandum/_Legacy Daily/Journal.base",
-    "CLAUDE.md",
-    "AGENTS.md",
+    "01_Notes/リボンズモデル.md",
+    "02_Memorandum/違和感や気づきが生まれたときに記録する.md",
     "02_Memorandum/Memorandum.base",
-    "00_Personal/Self Development.md",
-    "_Template/Memorandum.md",
-    "_System/_staging/aiChat_sessions_pending.md",
-    "_Template/Source.md",
-    "_Template/WorkSite.md",
-    "_Template/AI知的資産.md",
+    "02_Memorandum/_Legacy Daily/定性評価への抵抗感とコンセプチュアルスキルの課題.md",
+    "01_Notes/FSスキル(成果シナリオ・営業シナリオ)開発/営業シナリオ.md",
+    "01_Notes/FSスキル(成果シナリオ・営業シナリオ)開発/FSシナリオ.md",
+    "06_AI知的資産/Skills/商談設計/seika-scenario/SKILL.md",
+    "06_AI知的資産/Skills/Sales Coaching/sales-meeting-coach/商談トレーニングSkillの使い方.md",
     "_Template/_Legacy/Note（旧Excalidraw）.md",
-    "_Template/_Legacy",
-    "01_Notes/Business・Ops／事業設計.md",
-    "06_AI知的資産/Settings/Codex.md",
-    "06_AI知的資産/Rules/自動リンクルール.md",
-    "06_AI知的資産/Rules/ノート生成ルール.md",
-    "06_AI知的資産/Rules/ChatGPT・Codex・Claudian連携.md",
-    "06_AI知的資産/Settings",
-    "06_AI知的資産/Rules",
-    "06_AI知的資産/AI知的資産.md",
-    "06_AI知的資産/AI活用思想.md",
-    "06_AI知的資産",
-    "02_Memorandum/_Legacy Daily/マネジメントタイプの多様性と向き不向き判断の考察｜2026-07-21.md",
-    "02_Memorandum/_Legacy Daily/Journal一覧.md",
-    "02_Memorandum/_Legacy Daily/2026-07-30.md",
-    "02_Memorandum/_Legacy Daily/2026-07-23.md",
-    "02_Memorandum/_Legacy Daily/2026-07-22.md",
-    "02_Memorandum/_Legacy Daily",
-    "02_Memorandum/Journal.base",
-    "02_Memorandum",
+    "sed2QkiHH",
+    "06_AI知的資産/Skills/商談設計/eigyo-scenario/sedpAL24C",
+    "06_AI知的資産/Skills/商談設計/seika-scenario/成果シナリオSkillの使い方.md",
+    "06_AI知的資産/Skills/商談設計/eigyo-scenario/営業シナリオSkillの使い方.md",
+    "06_AI知的資産/Skills/Sales Coaching/sales-meeting-coach-random/ランダム商談ロープレの使い方.md",
+    "06_AI知的資産/Skills/商談設計/seika-scenario/references/frameworks.md",
+    "06_AI知的資産/Skills/商談設計/seika-scenario/references/examples.md",
+    "06_AI知的資産/Skills/商談設計/seika-scenario/references/concept.md",
+    "06_AI知的資産/Skills/商談設計/eigyo-scenario/references/frameworks.md",
+    "06_AI知的資産/Skills/商談設計/eigyo-scenario/references/examples.md",
+    "06_AI知的資産/Skills/商談設計/eigyo-scenario/references/concept.md",
+    "06_AI知的資産/Skills/商談設計/eigyo-scenario/SKILL.md",
+    "06_AI知的資産/Skills/Sales Coaching/sales-meeting-coach-random/validation/random-test-results.md",
+    "06_AI知的資産/Skills/Sales Coaching/sales-meeting-coach-random/scripts/draw_case.py",
+    "06_AI知的資産/Skills/Sales Coaching/sales-meeting-coach-random/templates/customer-state.md",
+    "06_AI知的資産/Skills/Sales Coaching/sales-meeting-coach-random/references/random-mode.md",
+    "06_AI知的資産/Skills/Sales Coaching/sales-meeting-coach-random/agents/openai.yaml",
+    "06_AI知的資産/Skills/Sales Coaching/sales-meeting-coach-random/validation",
+    "06_AI知的資産/Skills/Sales Coaching/sales-meeting-coach-random/templates",
+    "06_AI知的資産/Skills/Sales Coaching/sales-meeting-coach-random/SKILL.md",
+    "06_AI知的資産/Skills/Sales Coaching/sales-meeting-coach-random/scripts",
+    "06_AI知的資産/Skills/Sales Coaching/sales-meeting-coach-random/references",
+    "06_AI知的資産/Skills/Sales Coaching/sales-meeting-coach-random/README.md",
+    "06_AI知的資産/Skills/Sales Coaching/sales-meeting-coach-random/agents",
+    "06_AI知的資産/Skills/Sales Coaching/sales-meeting-coach/references/source-documents/商談能力開発_課題整理・ゴール設計・トレーニング方針_更新版_2026-10-05.md",
+    "06_AI知的資産/Skills/Sales Coaching/sales-meeting-coach/references/source-documents/商談トレーニング_2026-09-28_1505以降_会話ログ_更新版_2026-10-05.md",
+    "06_AI知的資産/Skills/Sales Coaching/sales-meeting-coach/templates/training-log.md",
+    "03_Sources/自分のキャラクター化_直前版_笑顔のトリックスター.png",
+    "03_Sources/自分のキャラクター化_採用版_フード姿のトリックスター.png",
+    "05_Outputs/Guardian Award/株式会社SoVa_山本 健太郎様_GTM論点仮説シート.png",
+    "03_Sources/パーソナリティ統合_壁と水_2026-10-02.png",
     "無題のファイル.canvas"
   ]
 }
