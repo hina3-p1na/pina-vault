@@ -121,4 +121,4 @@ Obsidian内のClaudianからCodexまたはClaude Codeを使用し、同じルー
 - 各スキルのフォルダに、日本語名の入口ノート（`〇〇Skillの使い方.md`）を1枚置く。hub・related・aliasesは入口ノートに付け、他ノートからのリンクも入口ノートへ向ける
 - 実体はこのフォルダの1つだけ。Codex・Work用の`~/.codex/skills/<スキルID>`と、Claude Code用の`~/.claude/skills/<スキルID>`には、Vaultへのジャンクション（フォルダへの案内板）を置き、コピーは作らない。スキルのフォルダ名・場所を変えるとき、スキルを追加・削除するときは、ジャンクションも付け替える
 - 現在のスキルID：`eigyo-scenario`＝営業シナリオ、`seika-scenario`＝成果シナリオ、`sales-meeting-coach`＝商談トレーニング、`sales-meeting-coach-random`＝商談トレーニング（ランダム）
-- Claudeアプリ（チャット）にはVaultの変更が自動で届かない。Claudeアプリで使うスキル（現在：営業シナリオ・成果シナリオ）の中身を変更したAIは、`~/Claude/スキル入れ直し用/<スキルID>.zip`を作り直し、「Claudeアプリへの入れ直しが必要」と本人に通知する
+- Claudeアプリ（チャット）にはVaultの変更が自動で届かない。Claudeアプリで使うスキル（現在：4本すべて）の中身を変更したAIは、`~/Claude/スキル入れ直し用/<スキルID>.zip`を作り直し、「Claudeアプリへの入れ直しが必要」と本人に通知する
